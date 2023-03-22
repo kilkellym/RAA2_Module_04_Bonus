@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA_WPF_Template_20223</Text>
+    <Description>Some description for RAA_WPF_Template_20223</Description>
+    <Assembly>RAA_WPF_Template_20223.dll</Assembly>
+    <FullClassName>RAA_WPF_Template_20223.Command</FullClassName>
+    <ClientId>0b601690-824b-4f93-930e-784cd1243873</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA_WPF_Template_20223</Name>
+    <Assembly>RAA_WPF_Template_20223.dll</Assembly>
+    <FullClassName>RAA_WPF_Template_20223.App</FullClassName>
+    <ClientId>73f57fb3-75b1-420b-b316-e8941d593021</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
